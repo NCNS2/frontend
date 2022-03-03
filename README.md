@@ -1,4 +1,4 @@
-# Personal_Musinsa (무신사 클론 프로젝트)
+# Kream-frontend (크림 클론 프로젝트)
 
 ## 사용 기술 및 스택
 
