@@ -1,7 +1,8 @@
-import React from 'react';
+import React from "react";
+import Router from "./routers";
 
 function App() {
-  return <div>Kream start</div>;
+  return <Router />;
 }
 
 export default App;
